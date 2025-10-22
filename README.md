@@ -1,5 +1,4 @@
 # Registro-de-Productos-en-Inventario
-# Registro de Productos en Inventario (Swing)
 
 Aplicación de escritorio en **Java Swing** para registrar, listar, editar y eliminar productos de inventario.  
 Incluye validaciones básicas, control de duplicados por **código de entrada** y persistencia en memoria mediante un arreglo gestionado por `GestionEmpleados`.
@@ -36,7 +35,7 @@ Incluye validaciones básicas, control de duplicados por **código de entrada** 
 
 ## 🗂️ Estructura del proyecto
 
----
+```
 
 ├── build/                → Carpeta generada automáticamente por NetBeans al compilar
 │   └── classes/          → Contiene los .class (archivos bytecode compilados)
@@ -56,7 +55,7 @@ Incluye validaciones básicas, control de duplicados por **código de entrada** 
 │
 └── test/                 → Código de pruebas unitarias (JUnit, opcional)
 
----
+```
 
 ## ⚙️ Configuración y ejecución
 

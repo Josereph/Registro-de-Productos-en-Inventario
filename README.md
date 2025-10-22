@@ -36,6 +36,8 @@ Incluye validaciones básicas, control de duplicados por **código de entrada** 
 
 ## 🗂️ Estructura del proyecto
 
+---
+
 ├── build/                → Carpeta generada automáticamente por NetBeans al compilar
 │   └── classes/          → Contiene los .class (archivos bytecode compilados)
 │       ├── clases/       → .class de tus modelos (Empleado, GestionEmpleados…)

@@ -54,7 +54,6 @@ Incluye validaciones básicas, control de duplicados por **código de entrada** 
 │
 └── test/                 → Código de pruebas unitarias (JUnit, opcional)
 
-
 ---
 
 ## ⚙️ Configuración y ejecución
